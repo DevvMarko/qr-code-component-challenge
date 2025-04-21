@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DevvMarko/qr-code-component-challenge.git)
-- Live Site URL: [Add live site URL here](https://devvmarko.github.io/qr-code-component-challenge/)
+- Solution URL: [click here](https://github.com/DevvMarko/qr-code-component-challenge.git)
+- Live Site URL: [click here](https://devvmarko.github.io/qr-code-component-challenge/)
 
 ## My process
 
@@ -46,7 +46,5 @@ This project allowed me to make better and more reliable use of flexbox, color p
 ## Author
 
 - Frontend Mentor - [@DevDaru](https://www.frontendmentor.io/profile/DevvMarko)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
